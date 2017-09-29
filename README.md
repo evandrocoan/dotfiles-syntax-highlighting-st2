@@ -39,7 +39,6 @@ Install via [Package Control](https://sublime.wbond.net/)
 - `.gitconfig`
 - `.gitignore`
 - `.gitignore_global`
-- `.gitmodules`
 - `.hushlogin`
 - `.inputrc`
 - `.jsbeautifyrc`
