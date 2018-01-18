@@ -38,6 +38,7 @@
 		".inputrc",
 		".jshintignore",
 		".jsbeautifyrc",
+		".lftprc",
 		".npmignore",
 		".npmrc",
 		".osx",
