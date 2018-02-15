@@ -56,7 +56,6 @@
 		".zpreztorc",
 		".xsessionrc",
 		".wgetrc",
-		"sh",
 		"symlink",
 		"zshrc",
 		"zshenv",
