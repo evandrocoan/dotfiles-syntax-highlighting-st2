@@ -58,5 +58,9 @@
 		"zlogout",
 		"zprofile",
 		"zpreztorc"
+	],
+	"first_line":
+	[
+		"^#\\s*compdef"
 	]
 }
