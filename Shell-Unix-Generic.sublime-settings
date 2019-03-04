@@ -10,7 +10,6 @@
 		".bash_aliases",
 		".bashrc",
 		".brew",
-		"conf",
 		".curlrc",
 		".env",
 		".env.development",
